@@ -23,3 +23,5 @@ Android环境简单来说，只需要几个：
 3. VIM等其他，如果你是这种高端玩家，那么基本不用我了。
 
 所以一下的环境将以Android Studio为例。
+
+另外，谨记一点，凡是不懂，问[Android](https://developer.android.com)
