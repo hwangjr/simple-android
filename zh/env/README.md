@@ -24,4 +24,4 @@ Android环境简单来说，只需要几个：
 
 所以一下的环境将以Android Studio为例。
 
-另外，谨记一点，凡是不懂，问[Android](https://developer.android.com)
+另外，谨记一点，凡是不懂，问[Android](https://developer.android.com)。
