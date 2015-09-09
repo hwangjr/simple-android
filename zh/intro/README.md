@@ -9,6 +9,8 @@
 
 Android使用Java语言为首选开发语言，支持JavaSE的大多数特性，不支持AWT和Swing包。AndroidSDK拥有原生的UI框架，特别是5.0的发布，奠定了卡片式设计，6.0全面应用[Material Design](http://www.google.com/design/spec/material-design/)设计风格，围绕Material Design的一系列的开发指南、开发标准及控件都已经逐步完善。
 
+简单和熟悉的Java语言，丰富的类库，还有围绕Android产生的各研发圈，有什么好等待的，加入Android大家庭吧~
+
 下面附上一张经典的Android架构图。
 
 ![Android架构](img/android-structure.jpg "Android架构")
