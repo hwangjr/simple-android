@@ -11,4 +11,4 @@ Android使用Java语言为首选开发语言，支持JavaSE的大多数特性，
 
 下面附上一张经典的Android架构图。
 
-![Android架构][img/android-structure.jpg]
+![Android架构][./img/android-structure.jpg]
