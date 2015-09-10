@@ -56,3 +56,11 @@ sudo update-alternatives --config java
 ```
 
 ### SDK安装
+如果使用Android Studio，可以单独下载Android Studio或者下载Android Studio的bundle，bundle里面包含了：
+1. 当前最新的Android studio
+2. android sdk
+3. android build tool
+4. android virtual device images
+
+单独安装sdk：
+1. 
