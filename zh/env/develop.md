@@ -83,6 +83,10 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 2. 启动即可，启动之后，需要配置SDK目录，如果下载Bundle，直接选择as目录的sdk，如果单独安装SDK，则选择安装的SDK目录。
 
 
+### 可选NDK安装
+
+
+
 ``` bash
 export ANDROID_NDK=/usr/local/android-ndk-r10
 export PATH=$PATH:$ANDROID_NDK
