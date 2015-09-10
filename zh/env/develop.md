@@ -27,6 +27,9 @@ Android推荐JDK版本为7+，从[JDK下载地址](www.oracle.com/technetwork/ja
 1. 下载gz文件并解压到安装目录（建议/usr/local/jvm目录）
 2. 设置环变量
 
+也可以安装openjdk，不过推荐用上面的安装方式：
+1. 命令行安装（ubuntu为例）：` sudo apt-get install openjdk-7-jdk
+
 
 **Mac 平台**
 1. 下载dmg文件并安装
