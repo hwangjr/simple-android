@@ -68,6 +68,7 @@ sudo update-alternatives --config java
 单独安装SDK：
 1. 去[SDK下载](http://developer.android.com/sdk)页面，选择SDK进行下载
 2. 配置环境
+3. 运行SDK根目录下`tools/android`程序，进行升级（建议sdk tools、build tools升级为最新Platform升级最新版本和最低适配版本）
 
 ** 配置环境**
 配置系统环境，以Linux为例，其他可参考JDK的环境配置来进行配置：
