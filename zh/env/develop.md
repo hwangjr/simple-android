@@ -62,6 +62,7 @@ sudo update-alternatives --config java
 3. android build tool
 4. android virtual device images
 
-单独安装sdk：
+**单独安装sdk**
+单独安装SDK：
 1. 去[SDK下载](http://developer.android.com/sdk)页面，选择SDK进行下载
 2. 配置环境
