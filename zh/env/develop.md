@@ -91,6 +91,8 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 以Linux为例：
 ``` bash
 
+export ANDROID_NDK=/usr/local/android-ndk-r10
+export PATH=$PATH:$ANDROID_NDK
 ```
 
 ### 可选Gradle安装
