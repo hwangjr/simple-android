@@ -76,6 +76,8 @@ export ANDROID_HOME=/usr/local/android-sdk-linux
 export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 ```
 
+### IDE安装
+
 
 ``` bash
 export ANDROID_NDK=/usr/local/android-ndk-r10
