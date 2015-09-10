@@ -36,12 +36,12 @@ Android推荐JDK版本为7+，从[JDK下载地址](www.oracle.com/technetwork/ja
 2. 设置环境变量
 
 **设置环境变量**
-必须配置变量：
+必须配置变量（以Linux为例）：
 ``` java
-JAVA_HOME=path_to_jdk_dir
+export JAVA_HOME=path_to_jdk_dir
 ```
-可选配置环境变量：
+可选配置环境变量（以Linux为例）：
 ``` java
-PATH=$JAVA_HOME/bin:$PATH
-CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
 ```
