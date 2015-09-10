@@ -45,6 +45,6 @@ export JAVA_HOME=path_to_jdk_dir
 export PATH=$PATH:$JAVA_HOME/bin:$JAVA_HOME/jre/bin
 export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
 ```
-在Linux平台下，直接在文件（/etc/profile 或者 ~/.profile 或者 ~/.bashrc）中新增。
+在类Uinux平台下，直接在文件（/etc/profile 或者 ~/.profile 或者 ~/.bashrc）中新增。
 
-在WIN平台下，右键电脑 -> 属性 -> 高级系统设置 -> 高级 -> 环境变量。在系统变量新建JAVA_HOME和CLASS_PATH变量，查找系统变量中Path，在末尾新增`;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;`
+在WIN平台下，右键电脑 -> 属性 -> 高级系统设置 -> 高级 -> 环境变量。在系统变量新建JAVA_HOME和CLASS_PATH变量，查找系统变量中Path，在末尾新增`;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;`。
