@@ -88,7 +88,10 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 2. 配置环境
 
 **配置环境**
+以Linux为例：
+``` bash
 
+```
 
 ### 可选Gradle安装
 
