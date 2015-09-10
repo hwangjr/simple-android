@@ -97,8 +97,10 @@ export PATH=$PATH:$ANDROID_NDK
 ### 可选Gradle安装
 1. [Gradle Download](http://gradle.org/gradle-download/)下载最新Gradle
 2. 配置环境
-
-
+``` bash
+export GRADLE_HOME=/usr/local/gradle/latest
+export PATH=$PATH:$GRADLE_HOME/bin
+```
 
 
 ``` bash
