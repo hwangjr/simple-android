@@ -69,3 +69,18 @@ sudo update-alternatives --config java
 
 ** 配置环境**
 配置系统环境，以Linux为例，其他可参考JDK的环境配置来进行配置：
+``` bash
+export ANDROID_HOME=/usr/local/android-sdk-linux
+export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
+
+```
+
+
+``` bash
+
+export ANDROID_NDK=/usr/local/android-ndk-r10
+export PATH=$PATH:$ANDROID_NDK
+
+export GRADLE_HOME=/usr/local/gradle/latest
+export PATH=$PATH:$GRADLE_HOME/bin
+```
