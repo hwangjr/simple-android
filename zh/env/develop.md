@@ -6,6 +6,7 @@
 1. JDK（>= 1.7）
 2. Android SDK
 3. IDE
+4. 可选NDK安装
 
 其中Android SDK是Android开发的工具包，里面包括各个版本的工具、第三方库等，Android SDK依赖JDK7+。
 
