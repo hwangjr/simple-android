@@ -15,3 +15,19 @@
 
 ### JDK环境部署
 Android推荐JDK版本为7+，从[JDK下载地址](www.oracle.com/technetwork/java/javase/ downloads/index.html)下载JDK并进行安装。
+
+**Win 平台**
+
+1. 下载exe文件并安装（注意看自身平台32位还是64位）
+2. 设置环境变量
+
+
+**Linux 平台**
+
+1. 下载gz文件并解压到安装目录（建议/usr/local/jvm目录）
+2. 设置环变量
+
+
+**Mac 平台**
+1. 下载dmg文件并安装
+2. 设置环境变量
