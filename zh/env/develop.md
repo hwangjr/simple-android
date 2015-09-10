@@ -7,6 +7,7 @@
 2. Android SDK
 3. IDE
 4. 可选NDK安装
+5. 可选Gradle安装
 
 其中Android SDK是Android开发的工具包，里面包括各个版本的工具、第三方库等，Android SDK依赖JDK7+。
 
@@ -78,7 +79,6 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 
 
 ``` bash
-
 export ANDROID_NDK=/usr/local/android-ndk-r10
 export PATH=$PATH:$ANDROID_NDK
 
