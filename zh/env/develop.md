@@ -48,3 +48,9 @@ export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
 在类Uinux平台下，直接在文件（/etc/profile 或者 ~/.profile 或者 ~/.bashrc）中新增。
 
 在WIN平台下，右键电脑 -> 属性 -> 高级系统设置 -> 高级 -> 环境变量。在系统变量新建JAVA_HOME和CLASS_PATH变量，查找系统变量中Path，在末尾新增`;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;`。
+
+**Ubuntu高级配置**
+如果是Ubuntu系统且需要在各个JDK版本之间切换，在安装之后（`/usr/local/jvm`），可以使用以下命令进行配置，在各个版本之间切换:
+``` bash
+sudo update-alternatives --config java
+```
