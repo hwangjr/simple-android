@@ -68,4 +68,4 @@ sudo update-alternatives --config java
 2. 配置环境
 
 ** 配置环境**
-配置系统环境，以
+配置系统环境，以Linux为例，其他可参考JDK的环境配置来进行配置：
