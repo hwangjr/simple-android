@@ -86,6 +86,8 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 ### 可选NDK安装
 
 
+### 可选Gradle安装
+
 
 ``` bash
 export ANDROID_NDK=/usr/local/android-ndk-r10
