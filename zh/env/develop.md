@@ -63,4 +63,5 @@ sudo update-alternatives --config java
 4. android virtual device images
 
 单独安装sdk：
-1. 
+1. 去[SDK下载](http://developer.android.com/sdk)页面，选择SDK进行下载
+2. 
