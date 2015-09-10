@@ -85,6 +85,8 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 
 ### 可选NDK安装
 
+1. 去[SDK下载](http://developer.android.com/sdk)页面，选择SDK进行下载
+2. 配置环境
 
 ### 可选Gradle安装
 
