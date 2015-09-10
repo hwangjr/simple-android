@@ -42,6 +42,6 @@ export JAVA_HOME=path_to_jdk_dir
 ```
 可选配置环境变量（以Linux为例）：
 ``` java
-export PATH=$JAVA_HOME/bin:$PATH
+export PATH=$PATH:$JAVA_HOME/bin
 export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
 ```
