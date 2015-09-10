@@ -42,5 +42,6 @@ JAVA_HOME=path_to_jdk_dir
 ```
 可选配置环境变量：
 ``` java
-PATH=
+PATH=$JAVA_HOME/bin:$PATH
+CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
 ```
