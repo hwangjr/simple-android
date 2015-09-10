@@ -34,3 +34,9 @@ Android推荐JDK版本为7+，从[JDK下载地址](www.oracle.com/technetwork/ja
 **Mac 平台**
 1. 下载dmg文件并安装
 2. 设置环境变量
+
+**设置环境变量**
+必须配置变量：
+``` java
+export JAVA_HOME=path_to_jdk_dir
+```
