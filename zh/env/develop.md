@@ -101,12 +101,3 @@ export PATH=$PATH:$ANDROID_NDK
 export GRADLE_HOME=/usr/local/gradle/latest
 export PATH=$PATH:$GRADLE_HOME/bin
 ```
-
-
-``` bash
-export ANDROID_NDK=/usr/local/android-ndk-r10
-export PATH=$PATH:$ANDROID_NDK
-
-export GRADLE_HOME=/usr/local/gradle/latest
-export PATH=$PATH:$GRADLE_HOME/bin
-```
