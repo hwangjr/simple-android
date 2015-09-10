@@ -77,6 +77,9 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 ```
 
 ### Android Studio安装
+下载安装即可：
+1. 在[Android Studio下载](http://developer.android.com/sdk/installing/studio.html)页面进行AS下载并安装
+2. 启动即可，启动之后，需要配置SDK目录，如果下载Bundle，直接选择as目录的sdk，如果单独安装SDK，则选择安装的SDK目录。
 
 
 ``` bash
