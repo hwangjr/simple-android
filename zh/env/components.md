@@ -9,6 +9,7 @@ View是UI元素，构成界面的基本元素。View可以是一个按钮、输�
 Activity代表活动窗体，可以理解为应用程序的一个屏幕。它通常包含一个或多个View，帮助用户完成某一操作：查看数据、创建或编辑数据等。大部分Android应用程序包含多个Activity。
 
 ### Fragment
+Fragment是碎片的概念。在大屏幕上，一个Activity很难管理所有功能，此时可将屏幕分为多个碎片组合而成，分别进行管理。Fragment也可理解为子活动，一个Activity可包含多个Fragment，也可只包含一个。
 
 ### Intent
 
