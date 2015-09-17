@@ -101,3 +101,14 @@ export PATH=$PATH:$ANDROID_NDK
 export GRADLE_HOME=/usr/local/gradle/latest
 export PATH=$PATH:$GRADLE_HOME/bin
 ```
+
+### Eclipse环境配置
+这里简要说明下Eclipse的环境配置。
+1. 安装JDK，参见上面的JDK安装。
+2. 下载[Eclipse](http://www.eclipse.org/downloads/)，并解压到安装目录。
+3. 安装SDK/NDK，参见上面SDK安装。
+4. 运行Eclipse，安装[ADT插件](https://developer.android.com/intl/zh-cn/sdk/installing/installing-adt.html#Download)（ADT插件如果在线安装不了，需要下载之后安装）。
+5. 配置ADT插件，即确定SDK/NDK目录等。
+6. 开始开发。
+7. 
+
